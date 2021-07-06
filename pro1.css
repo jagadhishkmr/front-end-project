@@ -1,0 +1,68 @@
+.tag  {
+    padding: 25px;
+}
+.tag1{
+    padding-left: 25px;
+}
+.col {
+    padding: 30px;
+}
+.col1 {
+    padding-left: 1px;
+    padding-top: 20px;
+}
+.ts{
+    
+    font-size: medium;
+}
+.tc{
+    font-size: small;
+    color: grey;
+}
+.flex-container {
+    display: flex;
+
+}
+.flex-container>div{
+    background-color: white;
+    margin: 10px;
+    padding: 20px;
+    font-size: 30px;
+}
+.cost{
+    text-decoration: line-through;
+    color: grey;
+    font-size: medium;
+}
+.off {
+    color:green;
+    font-size: large;
+}
+.heading{
+    font-size: medium;
+    color: black;
+}
+.right{
+    justify-content: end;
+}
+.text{
+    text-align: center;
+    background-color: coral;
+    padding: 50px;
+    margin: 50px;
+}
+.spec{
+    background-color: rgb(12, 10, 10);
+    padding: 30px;
+    text-align: center;
+    color: white;
+    border-radius: 4px;
+    
+}
+.spec2{
+    padding: 30px;
+    text-align: center;
+    color: rgb(8, 7, 7);
+    border-radius: 4px;
+    
+}
